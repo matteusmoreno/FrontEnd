@@ -7,12 +7,6 @@ Este projeto é uma página de portfólio simples que apresenta informações so
 - HTML
 - CSS
 
-## Como Executar o Projeto
-
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. Navegue até o diretório do projeto: `cd seu-repositorio`
-3. Abra o arquivo `index.html` no seu navegador.
-
 ## Contato
 
 - [Instagram](https://instagram.com/matteus_moreno)
